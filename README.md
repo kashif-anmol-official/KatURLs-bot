@@ -1,5 +1,5 @@
-# GPlink-bot
-Make short link by using [GPlink](https://katurls.com/) API key
+# KatURLs-bot
+Make short link by using [KatURLs](https://katurls.com/) API key
 ### Installation
 
 #### The Easy Way
@@ -12,4 +12,4 @@ Make short link by using [GPlink](https://katurls.com/) API key
 
 * `API_ID`: Get this value from [telegram.org](https://my.telegram.org/apps)
 * `API_HASH`: Get this value from [telegram.org](https://my.telegram.org/apps)
-* `API_KEY`: Create [GPlink](https://katurls.com/) account then get this value from [GPlink API](https://katurls.com/member/tools/api)
+* `API_KEY`: Create [KatURLs](https://katurls.com/) account then get this value from [KatURLs API](https://katurls.com/member/tools/api)
