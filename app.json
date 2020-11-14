@@ -1,12 +1,12 @@
 {
-    "name": "GPlink_Bot",
-    "description": "Make short link by using GPlink API key",
+    "name": "KatURLs_Bot",
+    "description": "Make short link by using KatURLs API key",
     "keywords": [
         "telegram",
-        "gplink"
+        "katurls"
     ],
-    "website": "https://github.com/Mahesh0253/GPlink-bot",
-    "repository": "https://github.com/Mahesh0253/GPlink-bot",
+    "website": "https://github.com/kashif-anmol-official/KatURLs-bot",
+    "repository": "https://github.com/kashif-anmol-official/KatURLs-bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token",
